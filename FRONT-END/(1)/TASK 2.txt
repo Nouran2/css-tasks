@@ -1,0 +1,5 @@
+1) External style
+
+2)Internal style
+
+3) Inline style 
